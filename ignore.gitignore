@@ -1,0 +1,50 @@
+# macOS files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon files
+Icon?
+._* 
+
+# Thumbnails
+.VolumeIcon.icns
+
+# macOS specific files
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Xcode
+*.xcworkspace
+*.xcuserstate
+*.xcuserdata
+DerivedData/
+build/
+*.xcodeproj/project.xcworkspace/
+*.xcodeproj/xcuserdata/
+
+# CocoaPods
+Pods/
+
+# Swift Package Manager
+.build/
+
+# Directorios con errores de permisos
+Library/
+.Trash/
+.oh-my-zsh/
+Documents/
+
+# Archivos temporales
+*.swp
+*.tmp
+*.log
+
+# Archivos específicos de tu editor
+.vscode/
+.idea/
